@@ -1,4 +1,4 @@
-####Marikina Road Network with Variable Line Widths
+#### Marikina Road Network with Variable Line Widths
 
 The goal of this micro-project is to plot the road network of Marikina City in Metro Manila, Philippines.
 However, instead of having a uniform line width for all roads, I wanted to vary the line width according
