@@ -13,6 +13,6 @@ This micro-project was also a chance for me to tinker with `pyplot` functionalit
 customizing axis properties, particularly the background color, title, and legend.
 
 Here is the resulting plot in PNG format:
-[Marikina Road Network](https://github.com/jeromemaiquez/marikina_road_network/blob/main/marikina_road_network.png)
+![Marikina Road Network](https://github.com/jeromemaiquez/marikina_road_network/blob/main/marikina_road_network.png)
 
 Hope you enjoy!
